@@ -10,7 +10,7 @@ df = pd.read_csv("./fil.csv")
 #print(df)
 
 
-
+111111
 
 
 print(df.drop(columns = ["Name","Author"]))
